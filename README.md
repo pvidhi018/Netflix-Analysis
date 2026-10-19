@@ -44,6 +44,7 @@ I used a funnel chart to show the number of titles in each rating group.
 
 This helps users see how Netflix titles are distributed across different ratings and compare the number of titles between rating groups.
 
+
 4. Title Filter with Show Images, Ratings, and Votes
 On the other side of the dashboard, I added a filter to explore individual titles. The selected title is displayed with its image, rating, and number of votes.
 
