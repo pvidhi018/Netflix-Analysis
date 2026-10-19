@@ -63,9 +63,11 @@ I created a table showing country-wise details, including:
 
 This table helps users compare Netflix content across countries and see how the figures differ from one country to another.
 
+
+
+
 7. Interactive Map with Bubble Visualization
 I also added a geographical map with bubbles to display Netflix data by country.
-
 The map allows users to explore the following measures:
 - Number of titles
 - Average rating
