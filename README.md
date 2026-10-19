@@ -1,6 +1,6 @@
 # Netflix Analysis (PowerBI Dashboard Overview)
 
-![image](https://github.com/user-attachments/assets/4343e6d1-8f64-49c9-897c-4f7f6b2bb142)
+<img width="1447" height="802" alt="WPS Photo" src="https://github.com/user-attachments/assets/225157f3-4fb5-48dc-82b2-4ea3abd5363a" />
 
 # Netflix Movies and TV Shows Analysis Using Power BI
 
